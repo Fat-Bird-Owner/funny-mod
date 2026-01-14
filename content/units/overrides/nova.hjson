@@ -1,2 +1,4 @@
-boostMultiplier: 1.45
+boostMultiplier: 2.35
 fallSpeed: 0.0005
+trailScl: 1
+trailLength: 6
