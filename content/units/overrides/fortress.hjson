@@ -1,0 +1,81 @@
+rotateSpeed: 2.5
+speed: 0.25
+health: 1215
+
+weapons:[
+{
+x: 10
+y: 0
+recoilTime: 120
+reload: 225
+shootSound: unitExplode1
+shake: 3.5
+shootStatus: slow
+shootStatusDuration: 295
+  
+shoot:{
+firstShotDelay: 120
+shots: 15
+shotDelay: 5
+}
+inaccuracy: 15
+name: fortress-artillery
+  
+bullet:{
+type: BasicBulletType
+speed: 5
+lifetime: 30
+
+chargeEffect:{
+type: SoundEffect
+sound: chargeLancer
+minPitch: 0.65
+maxPitch: 0.65
+minVolume: 2
+maxVolume: 2
+}
+
+hitSize: 24
+width: 20
+height: 28
+trailLength: 50
+trailWidth: 4
+hitSound: blockExplodeFlammable
+  
+damage: 75
+splashDamageRadius: 20
+splashDamage: 35
+hitEffect: explosion
+despawnHit: true
+hitShake: 6.5
+  
+fragRandomSpread: 0
+fragVelocityMin: 1
+fragBullets: 1
+  
+fragBullet:{
+
+type: BasicBulletType
+speed: 2.5
+lifetime: 30
+
+hitSize: 12
+hitSound: explosionArtilleryShockBig
+width: 10
+height: 14
+  
+damage: 35
+pierce: true
+pierceCap: 2
+splashDamageRadius: 10
+splashDamage: 22.5
+hitEffect: explosion
+despawnHit: true
+hitShake: 3.25
+}
+
+
+}
+
+}
+]
