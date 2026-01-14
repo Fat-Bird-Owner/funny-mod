@@ -9,6 +9,7 @@ display: false
 noAttack: true
 }
 {
+name: fortress-artillery
 x: 10
 y: 0
 recoilTime: 120
@@ -28,7 +29,6 @@ shots: 15
 shotDelay: 5
 }
 inaccuracy: 15
-name: fortress-artillery
   
 bullet:{
 type: BasicBulletType
