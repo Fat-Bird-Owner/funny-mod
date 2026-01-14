@@ -1,12 +1,14 @@
 // file name very used in logic like template-block.
-name: "template"
+name: "mod"
 
-displayName: "Mod Template"
-repo: "Fat-Bird-Owner/Mindustry-mod-template-hjson"
-subtitle: ""
-author: ""
+displayName: "[sky[]]Funny Mods[[]]"
+repo: "Fat-Bird-Owner/funny-mod"
+subtitle: "[green[]]Im Hungry.[[]]"
+author: "Fat Bird's Owner"
 
-description: ""
+description: "
+Add random idea that popped up in my head and also for testing stuff.
+"
 
 iosCompatible: true
 version: "v1"
