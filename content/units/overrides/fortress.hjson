@@ -7,6 +7,10 @@ weapons:[
 x: 10
 y: 0
 recoilTime: 120
+rotationLimit: 15
+rotateSpeed: 1
+shootCone: 30
+rotate: true
 reload: 225
 shootSound: unitExplode1
 shake: 3.5
