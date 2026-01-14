@@ -16,4 +16,7 @@ minGameVersion: "154.3"
 dependencies: []
 hidden: false
 
-contentOrder:[]
+contentOrder:[
+# Overrides
+nova
+]
