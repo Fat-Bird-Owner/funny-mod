@@ -77,10 +77,5 @@ splashDamage: 22.5
 hitEffect: explosion
 despawnHit: true
 hitShake: 3.25
-}
-
-
-}
-
-}
+}}}
 ]
