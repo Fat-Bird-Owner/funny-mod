@@ -1,12 +1,2 @@
 boostMultiplier: 1.45
 fallSpeed: 0.0005
-
-weapons.0:{
-reload: 15
-inaccuracy: 4.5
-
-bullet:{
-damage: 4.5
-}
-
-}
