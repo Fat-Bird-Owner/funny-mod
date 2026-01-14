@@ -5,6 +5,10 @@ health: 1215
 
 weapons:[
 {
+display: false
+noAttack: true
+}
+{
 x: 10
 y: 0
 recoilTime: 120
