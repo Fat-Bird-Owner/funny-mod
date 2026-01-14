@@ -2,6 +2,7 @@ research: mace
 rotateSpeed: 2.5
 speed: 0.25
 health: 1215
+range: 300
 
 weapons:[
 {
