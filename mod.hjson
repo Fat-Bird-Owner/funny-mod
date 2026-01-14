@@ -16,8 +16,10 @@ minGameVersion: "154.3"
 dependencies: []
 hidden: false
 
+/*
 contentOrder:[
 # Overrides
 nova
 fortress
 ]
+*/
